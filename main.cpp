@@ -34,7 +34,7 @@ int main() {
         int display_counter = 0; // compteur permettant de gérer l'affichage
 
         // Logique permettant de retrouver les nombres premiers
-        for (int current_value = lower_limit; current_value < user_value; ++current_value) {
+        for (int current_value = lower_limit; current_value <= user_value; ++current_value) {
 
             int counter_divisions = 0;
 
