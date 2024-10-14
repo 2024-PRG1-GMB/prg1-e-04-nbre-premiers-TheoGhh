@@ -1,0 +1,3 @@
+- Pas de constantes pour les entrées utilisateur ('O' et 'N')
+- Avez-vous déjà vu la fonction "toupper" en cours?
+- Il manque le premier affichage et le dernier demandés par la donnée
